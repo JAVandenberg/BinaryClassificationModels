@@ -10,4 +10,4 @@ Naive Bayes: 90% |
 Decision Tree: 91% |
 Random Forest: 91% |
 K-NN: 93% |
-Kerns - SVM: 93% |
+Kerns - SVM: 93% 
